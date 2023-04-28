@@ -16,6 +16,10 @@
 
 ## Installation
 
+Right click on the main directory and click "Open in integrated terminal"
+type "npm i" to install dependencies
+type "npm run start" to start
+
 ## Usage
 
 ## License
