@@ -26,5 +26,6 @@ MIT License https://opensource.org/license/mit-0/
 
 ## Assets
 
-Github -
-Heroku -
+Github - https://github.com/dukanegolder/text_editor
+
+Heroku - https://jate-text-editor11.herokuapp.com/
